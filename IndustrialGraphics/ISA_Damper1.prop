@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 10,
+  "VisualElementID": 514,
+  "GObjectId": 514,
+  "HelpId": "",
+  "VisualElementName": "ISA_Damper1",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589410502829,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

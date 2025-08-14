@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 8,
+  "VisualElementID": 241,
+  "GObjectId": 241,
+  "HelpId": "",
+  "VisualElementName": "ButtonArrowsVert",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994588925292188,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

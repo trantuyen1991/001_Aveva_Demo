@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 8,
+  "VisualElementID": 751,
+  "GObjectId": 751,
+  "HelpId": "",
+  "VisualElementName": "Crate1",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589844004360,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

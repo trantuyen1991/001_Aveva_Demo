@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 11,
+  "VisualElementID": 496,
+  "GObjectId": 496,
+  "HelpId": "",
+  "VisualElementName": "ISA_ValveGlobe",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589375762823,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

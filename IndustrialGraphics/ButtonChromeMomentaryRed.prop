@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 6,
+  "VisualElementID": 247,
+  "GObjectId": 247,
+  "HelpId": "",
+  "VisualElementName": "ButtonChromeMomentaryRed",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994588935762554,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

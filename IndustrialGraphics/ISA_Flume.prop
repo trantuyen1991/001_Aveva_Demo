@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 8,
+  "VisualElementID": 425,
+  "GObjectId": 425,
+  "HelpId": "",
+  "VisualElementName": "ISA_Flume",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589248102598,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

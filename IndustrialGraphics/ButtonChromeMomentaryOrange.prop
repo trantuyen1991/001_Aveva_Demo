@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 6,
+  "VisualElementID": 246,
+  "GObjectId": 246,
+  "HelpId": "",
+  "VisualElementName": "ButtonChromeMomentaryOrange",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994588934072200,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

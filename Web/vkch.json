@@ -1,0 +1,138 @@
+{
+  "keypad": {
+    "layout": {
+      "default": [
+        "1 2 3",
+        "4 5 6",
+        "7 8 9",
+        "0 . {±}",
+        "{bksp} {cancel} {confirm}"
+      ]
+    },
+    "display": {
+      "{±}": "±",
+      "{bksp}": "⌫",
+      "{confirm}": "✔",
+      "{cancel}": "✖"
+    }
+  },
+  "enhkeypad": {
+    "layout": {
+      "default": [
+        "1 2 3",
+        "4 5 6",
+        "7 8 9",
+        "0 . {±} {->}",
+        "{bksp} {cancel} {confirm}"
+      ],
+      "default1": [
+        "a b c",
+        "d e f",
+        "g h i",
+        "{cap} {space} {<-} {->}",
+        "{bksp} {cancel} {confirm}"
+      ],
+      "default2": [
+        "j k l",
+        "m n o",
+        "p q r",
+        "{cap} {space} {<-} {->}",
+        "{bksp} {cancel} {confirm}"
+      ],
+      "default3": [
+        "s t u",
+        "v w x",
+        "y z /",
+        "{cap} {space} {<-} {->}",
+        "{bksp} {cancel} {confirm}"
+      ],
+      "default4": [
+        "# % *",
+        "\\ : $",
+        "+ - ,",
+        "{space} {<-} {->}",
+        "{bksp} {cancel} {confirm}"
+      ],
+      "default5": [
+        "; ( )",
+        "@ ! ?",
+        "= > <",
+        "{space} {<-} {->}",
+        "{bksp} {cancel} {confirm}"
+      ],
+      "default6": [
+        "_ . &",
+        "[ ] α",
+        "β γ",
+        "{space} {<-}",
+        "{bksp} {cancel} {confirm}"
+      ],
+      "default10": [
+        "A B C",
+        "D E F",
+        "G H I",
+        "{cap} {space} {<-} {->}",
+        "{bksp} {cancel} {confirm}"
+      ],
+      "default20": [
+        "J K L",
+        "M N O",
+        "P Q R",
+        "{cap} {space} {<-} {->}",
+        "{bksp} {cancel} {confirm}"
+      ],
+      "default30": [
+        "S T U",
+        "V W X",
+        "Y Z /",
+        "{cap} {space} {<-} {->}",
+        "{bksp} {cancel} {confirm}"
+      ]
+    },
+    "display": {
+      "{<-}": "←",
+      "{->}": "→",
+      "{±}": "±",
+      "{bksp}": "⌫",
+      "{confirm}": "✔",
+      "{space}": " ",
+      "{cap}": "caps",
+      "{cancel}": "✖"
+    }
+  },
+  "alphanumeric": {
+    "layout": {
+      "default": [
+        "` 1 2 3 4 5 6 7 8 9 0 - = {bksp}",
+        "{tab} q w e r t y u i o p [ ] \\",
+        "{cap} a s d f g h j k l ; ' {enter}",
+        "{shift} z x c v b n m , . / {shift}",
+        "{alt} {space} {<-} {->} {cancel} {confirm}"
+      ],
+      "shift": [
+        "~ ! @ # $ % ^ & * ( ) _ + {bksp}",
+        "{tab} Q W E R T Y U I O P { } |",
+        "{cap} A S D F G H J K L : \" {enter}",
+        "{shift} Z X C V B N M < > ? {shift}",
+        "{alt} {space} {<-} {->} {cancel} {confirm}"
+      ]
+    },
+    "layoutCandidates": {
+      "a": "阿 啊 呵 腌 嗄 吖 锕",
+      "e": "额 阿 俄 恶 鹅 遏 鄂 厄 饿 峨 扼 娥 鳄 哦 蛾 噩 愕 讹 锷 垩 婀 鹗 萼 谔 莪 腭 锇 颚 呃 阏 屙 苊 轭"
+    },
+    "display": {
+      "{bksp}": "⌫",
+      "{confirm}": "✔",
+      "{enter}": "⏎",
+      "{space}": " ",
+      "{tab}": "⇥",
+      "{cap}": "caps",
+      "{shift}": "shift",
+      "{cancel}": "✖",
+      "{<-}": "←",
+      "{->}": "→",
+      "{alt}": "alt"
+    }
+  }
+}

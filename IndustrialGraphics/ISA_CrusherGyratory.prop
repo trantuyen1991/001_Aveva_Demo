@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 13,
+  "VisualElementID": 524,
+  "GObjectId": 524,
+  "HelpId": "",
+  "VisualElementName": "ISA_CrusherGyratory",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589428272828,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

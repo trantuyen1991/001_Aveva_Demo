@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 16,
+  "VisualElementID": 282,
+  "GObjectId": 282,
+  "HelpId": "",
+  "VisualElementName": "ButtonKeyCream",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994588995402194,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 8,
+  "VisualElementID": 578,
+  "GObjectId": 578,
+  "HelpId": "",
+  "VisualElementName": "LightMedBezelLabelYellow",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589524483223,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

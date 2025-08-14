@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 8,
+  "VisualElementID": 268,
+  "GObjectId": 268,
+  "HelpId": "",
+  "VisualElementName": "ButtonGlossyGreen",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994588971552562,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

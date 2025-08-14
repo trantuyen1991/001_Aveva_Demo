@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 26,
+  "VisualElementID": 616,
+  "GObjectId": 616,
+  "HelpId": "",
+  "VisualElementName": "PipePipe",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589592652843,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

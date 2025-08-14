@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 9,
+  "VisualElementID": 434,
+  "GObjectId": 434,
+  "HelpId": "",
+  "VisualElementName": "ISA_ColumnDistillationPacked",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589263802610,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

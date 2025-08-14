@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 21,
+  "VisualElementID": 274,
+  "GObjectId": 274,
+  "HelpId": "",
+  "VisualElementName": "ButtonHexPushGreen",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994588981822525,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

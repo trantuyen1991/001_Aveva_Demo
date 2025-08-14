@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 10,
+  "VisualElementID": 525,
+  "GObjectId": 525,
+  "HelpId": "",
+  "VisualElementName": "ISA_DryerBelt",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589430052832,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

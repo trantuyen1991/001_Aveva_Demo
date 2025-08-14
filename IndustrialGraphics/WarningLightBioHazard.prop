@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 15,
+  "VisualElementID": 711,
+  "GObjectId": 711,
+  "HelpId": "",
+  "VisualElementName": "WarningLightBioHazard",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589769554642,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

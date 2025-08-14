@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 43,
+  "VisualElementID": 357,
+  "GObjectId": 357,
+  "HelpId": "",
+  "VisualElementName": "ButtonNavDisplayTab",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589125752215,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

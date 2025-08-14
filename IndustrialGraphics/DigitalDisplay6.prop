@@ -1,0 +1,25 @@
+{
+  "GraphicVersion": 54,
+  "VisualElementID": 346,
+  "GObjectId": 346,
+  "HelpId": "",
+  "VisualElementName": "DigitalDisplay6",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589105902204,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [
+    1
+  ],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

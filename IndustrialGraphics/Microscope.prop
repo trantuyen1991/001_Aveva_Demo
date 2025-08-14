@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 13,
+  "VisualElementID": 760,
+  "GObjectId": 760,
+  "HelpId": "",
+  "VisualElementName": "Microscope",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589861064683,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

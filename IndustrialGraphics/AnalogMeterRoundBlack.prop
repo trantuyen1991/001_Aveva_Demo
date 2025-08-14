@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 45,
+  "VisualElementID": 230,
+  "GObjectId": 230,
+  "HelpId": "",
+  "VisualElementName": "AnalogMeterRoundBlack",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994588905922552,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

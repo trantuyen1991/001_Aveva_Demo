@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 192,
+  "VisualElementID": 235,
+  "GObjectId": 235,
+  "HelpId": "",
+  "VisualElementName": "AppEngineRedundancyDisplay",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994588914492513,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

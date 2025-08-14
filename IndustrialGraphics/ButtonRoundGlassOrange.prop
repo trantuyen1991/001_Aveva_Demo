@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 9,
+  "VisualElementID": 302,
+  "GObjectId": 302,
+  "HelpId": "",
+  "VisualElementName": "ButtonRoundGlassOrange",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589029592203,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

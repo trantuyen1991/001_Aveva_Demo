@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 63,
+  "VisualElementID": 700,
+  "GObjectId": 700,
+  "HelpId": "",
+  "VisualElementName": "ValveAirBall",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589748994670,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

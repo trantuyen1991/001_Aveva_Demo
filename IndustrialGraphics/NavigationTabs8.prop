@@ -1,0 +1,25 @@
+{
+  "GraphicVersion": 26,
+  "VisualElementID": 603,
+  "GObjectId": 603,
+  "HelpId": "",
+  "VisualElementName": "NavigationTabs8",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589569152847,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [
+    1
+  ],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

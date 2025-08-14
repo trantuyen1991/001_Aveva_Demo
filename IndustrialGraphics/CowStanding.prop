@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 7,
+  "VisualElementID": 337,
+  "GObjectId": 337,
+  "HelpId": "",
+  "VisualElementName": "CowStanding",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589090272201,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

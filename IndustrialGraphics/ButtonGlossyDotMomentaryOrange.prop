@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 8,
+  "VisualElementID": 263,
+  "GObjectId": 263,
+  "HelpId": "",
+  "VisualElementName": "ButtonGlossyDotMomentaryOrange",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994588962972515,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

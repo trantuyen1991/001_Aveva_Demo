@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 17,
+  "VisualElementID": 634,
+  "GObjectId": 634,
+  "HelpId": "",
+  "VisualElementName": "PumpHydrDiaphragm",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589625492844,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 15,
+  "VisualElementID": 501,
+  "GObjectId": 501,
+  "HelpId": "",
+  "VisualElementName": "ISA_ValveSafetyPressure",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589385692826,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

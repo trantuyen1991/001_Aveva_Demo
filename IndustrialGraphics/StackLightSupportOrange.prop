@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 46,
+  "VisualElementID": 672,
+  "GObjectId": 672,
+  "HelpId": "",
+  "VisualElementName": "StackLightSupportOrange",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589698084281,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

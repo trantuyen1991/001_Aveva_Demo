@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 13,
+  "VisualElementID": 541,
+  "GObjectId": 541,
+  "HelpId": "",
+  "VisualElementName": "ISA_Conveyor",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589458302827,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

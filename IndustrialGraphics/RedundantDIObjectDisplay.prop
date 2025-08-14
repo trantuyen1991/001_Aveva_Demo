@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 326,
+  "VisualElementID": 639,
+  "GObjectId": 639,
+  "HelpId": "",
+  "VisualElementName": "RedundantDIObjectDisplay",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589635882851,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

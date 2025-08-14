@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-16"?>
+<References xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reference Name="me.Tagname" CPName="EngineName" Type="UDA Ref Use" />
+  <Reference Name="me.ScanState" CPName="ScanState" Type="UDA Ref Use" />
+  <Reference Name="me.ScanStateCmd" CPName="ScanStateCmd" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.ScanPeriod" CPName="ScanPeriod" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.ScanTime" CPName="ScanTime" Type="UDA Ref Use" />
+  <Reference Name="me.Engine.Historian.Connection" CPName="Connection" Type="UDA Ref Use" />
+  <Reference Name="me.Engine.Historian.ConnectState" CPName="ConnectState" Type="UDA Ref Use" />
+  <Reference Name="me.Engine.Historian.ConnectStateCmd" CPName="ConnectStateCmd" Type="UDA Ref Use" />
+  <Reference Name="me.Engine.Historian.EnableTagHierarchy" CPName="EnableTagHierarchy" Type="UDA Ref Use" />
+  <Reference Name="me.Engine.Historian.ForwardingChunkSize" CPName="ForwardingChunkSize" Type="UDA Ref Use" />
+  <Reference Name="me.Engine.Historian.ForwardingDelay" CPName="ForwardingDelay" Type="UDA Ref Use" />
+  <Reference Name="me.Engine.Historian.InStoreForward" CPName="InStoreForward" Type="UDA Ref Use" />
+  <Reference Name="me.Engine.Historian.StoreForwardDataLost" CPName="StoreForwardDataLost" Type="UDA Ref Use" />
+  <Reference Name="me.Engine.Historian.StoreForwardDeletionThreshold" CPName="StoreForwardDeletionThreshold" Type="UDA Ref Use" />
+  <Reference Name="me.Engine.Historian.StoreForwardMinDuration" CPName="StoreForwardMinDuration" Type="UDA Ref Use" />
+  <Reference Name="me.Engine.Historian.StoreForwardProblem" CPName="StoreForwardProblem" Type="UDA Ref Use" />
+  <Reference Name="me.Engine.Historian.StoreForwardSpaceAvailable" CPName="StoreForwardSpaceAvailable" Type="UDA Ref Use" />
+</References>

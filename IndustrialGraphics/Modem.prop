@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 7,
+  "VisualElementID": 747,
+  "GObjectId": 747,
+  "HelpId": "",
+  "VisualElementName": "Modem",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589836674719,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

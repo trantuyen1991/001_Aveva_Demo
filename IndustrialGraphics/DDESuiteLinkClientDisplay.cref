@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-16"?>
+<References xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reference Name="me.Tagname" CPName="DDESuiteLinkClientName" Type="UDA Ref Use" />
+  <Reference Name="me.ScanState" CPName="ScanState" Type="UDA Ref Use" />
+  <Reference Name="me.ScanStateCmd" CPName="ScanStateCmd" Type="UDA Ref Use" />
+  <Reference Name="me.ShortDesc" CPName="ShortDesc" Type="UDA Ref Use" />
+  <Reference Name="me.ServerNode" CPName="ServerNode" Type="UDA Ref Use" />
+  <Reference Name="me.ServerName" CPName="ServerName" Type="UDA Ref Use" />
+  <Reference Name="me.ConnectionStatus" CPName="ConnectionStatus" Type="UDA Ref Use" />
+  <Reference Name="me.ConnectionStatus.Value" CPName="ConnectionStatusEnum" Type="UDA Ref Use" />
+  <Reference Name="me.CommunicationProtocol" CPName="CommunicationProtocol" Type="UDA Ref Use" />
+  <Reference Name="me.Reconnect" CPName="Reconnect" Type="UDA Ref Use" />
+  <Reference Name="me.ConnectionAlarm" CPName="ConnectionAlarm" Type="UDA Ref Use" />
+  <Reference Name="me.ScanGroupList[]" CPName="ScanGroupList" Type="UDA Ref Use" />
+  <Reference Name="me.topic.ItemCnt" CPName="TopicItemCnt" Type="UDA Ref Use" />
+  <Reference Name="me.topic.ItemErrorCnt" CPName="TopicItemErrorCnt" Type="UDA Ref Use" />
+  <Reference Name="me.topic.ItemUpdateCnt" CPName="TopicItemUpdateCnt" Type="UDA Ref Use" />
+  <Reference Name="me.topic.Active" CPName="TopicActive" Type="UDA Ref Use" />
+  <Reference Name="me.topic.ItemErrorCntAlarm" CPName="TopicItemErrorCntAlarm" Type="UDA Ref Use" />
+  <Reference Name="me.topic.ItemErrorCntAlarm.Priority" CPName="TopicItemErrorCntAlarmPriority" Type="UDA Ref Use" />
+  <Reference Name="me.CommunicationProtocol.Value" CPName="CommunicationProtocolEnum" Type="UDA Ref Use" />
+  <Reference Name="me.DDEUseDefaultUser" CPName="DDEUseDefaultUser" Type="UDA Ref Use" />
+  <Reference Name="me.DDEDomainName" CPName="DDEDomainName" Type="UDA Ref Use" />
+  <Reference Name="me.DDEUser" CPName="DDEUser" Type="UDA Ref Use" />
+</References>

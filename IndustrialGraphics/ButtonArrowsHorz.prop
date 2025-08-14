@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 10,
+  "VisualElementID": 240,
+  "GObjectId": 240,
+  "HelpId": "",
+  "VisualElementName": "ButtonArrowsHorz",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994588923542185,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

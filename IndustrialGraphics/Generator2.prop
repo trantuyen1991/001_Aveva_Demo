@@ -1,0 +1,28 @@
+{
+  "GraphicVersion": 8,
+  "VisualElementID": 794,
+  "GObjectId": 794,
+  "HelpId": "",
+  "VisualElementName": "Generator2",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589924004884,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

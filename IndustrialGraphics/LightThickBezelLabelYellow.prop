@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 7,
+  "VisualElementID": 589,
+  "GObjectId": 589,
+  "HelpId": "",
+  "VisualElementName": "LightThickBezelLabelYellow",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589544262844,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

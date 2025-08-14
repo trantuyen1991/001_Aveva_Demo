@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 7,
+  "VisualElementID": 550,
+  "GObjectId": 550,
+  "HelpId": "",
+  "VisualElementName": "ISA_ArrowHead",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589474192834,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

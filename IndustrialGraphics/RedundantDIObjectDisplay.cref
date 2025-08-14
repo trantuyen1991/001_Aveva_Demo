@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-16"?>
+<References xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reference Name="me.Tagname" CPName="RedundantDIObjectName" Type="UDA Ref Use" />
+  <Reference Name="me.ScanState" CPName="ScanState" Type="UDA Ref Use" />
+  <Reference Name="me.ScanStateCmd" CPName="ScanStateCmd" Type="UDA Ref Use" />
+  <Reference Name="me.ConnectionStatus" CPName="ConnectionStatus" Type="UDA Ref Use" />
+  <Reference Name="me.SwitchCnt" CPName="SwitchCnt" Type="UDA Ref Use" />
+  <Reference Name="me.SwitchMax" CPName="SwitchMax" Type="UDA Ref Use" />
+  <Reference Name="me.SwitchReset" CPName="SwitchReset" Type="UDA Ref Use" />
+  <Reference Name="me.SwitchoverAlarm" CPName="SwitchoverAlarm" Type="UDA Ref Use" />
+  <Reference Name="me.ConnectionAlarm" CPName="ConnectionAlarm" Type="UDA Ref Use" />
+  <Reference Name="me.ScanGroupList[]" CPName="ScanGroupList" Type="UDA Ref Use" />
+  <Reference Name="me.SG.ItemCnt" CPName="SGItemCnt" Type="UDA Ref Use" />
+  <Reference Name="me.SG.ItemErrorCnt" CPName="SGItemErrorCnt" Type="UDA Ref Use" />
+  <Reference Name="me.SG.Active" CPName="SGActive" Type="UDA Ref Use" />
+  <Reference Name="me.SG.ItemErrorCntAlarm" CPName="SGItemErrorCntAlarm" Type="UDA Ref Use" />
+  <Reference Name="me.SG.ItemErrorCntAlarm.Priority" CPName="SGItemErrorCntAlarmPriority" Type="UDA Ref Use" />
+  <Reference Name="me.SwitchReason" CPName="SwitchReason" Type="UDA Ref Use" />
+  <Reference Name="me.PingItems[]" CPName="PingItems" Type="UDA Ref Use" />
+  <Reference Name="me.ForceFailoverCmd" CPName="ForceFailoverCmd" Type="UDA Ref Use" />
+  <Reference Name="me.DISourceActive" CPName="DISourceActive" Type="UDA Ref Use" />
+  <Reference Name="me.DISourceStandby" CPName="DISourceStandby" Type="UDA Ref Use" />
+  <Reference Name="me.DISourcePrimary" CPName="DISourcePrimary" Type="UDA Ref Use" />
+  <Reference Name="me.DISourceBackup" CPName="DISourceBackup" Type="UDA Ref Use" />
+  <Reference Name="me.StatusBackupDISource" CPName="StatusBackupDISource" Type="UDA Ref Use" />
+  <Reference Name="me.StatusPrimaryDISource" CPName="StatusPrimaryDISource" Type="UDA Ref Use" />
+  <Reference Name="me.SwitchTime" CPName="SwitchTime" Type="UDA Ref Use" />
+  <Reference Name="me.SwitchReasonPrevious" CPName="SwitchReasonPrevious" Type="UDA Ref Use" />
+  <Reference Name="me.SwitchTimePrevious" CPName="SwitchTimePrevious" Type="UDA Ref Use" />
+</References>

@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 7,
+  "VisualElementID": 716,
+  "GObjectId": 716,
+  "HelpId": "",
+  "VisualElementName": "ValueDisplayLabelEngUnitsStacked",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589778804648,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

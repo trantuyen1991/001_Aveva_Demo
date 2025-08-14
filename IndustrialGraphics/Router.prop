@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 9,
+  "VisualElementID": 771,
+  "GObjectId": 771,
+  "HelpId": "",
+  "VisualElementName": "Router",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589881354756,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

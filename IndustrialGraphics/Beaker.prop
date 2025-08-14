@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 14,
+  "VisualElementID": 753,
+  "GObjectId": 753,
+  "HelpId": "",
+  "VisualElementName": "Beaker",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589847944355,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

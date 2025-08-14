@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 16,
+  "VisualElementID": 627,
+  "GObjectId": 627,
+  "HelpId": "",
+  "VisualElementName": "PipeSSStVert",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589612622844,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

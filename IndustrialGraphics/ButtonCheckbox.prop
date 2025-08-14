@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 9,
+  "VisualElementID": 242,
+  "GObjectId": 242,
+  "HelpId": "",
+  "VisualElementName": "ButtonCheckbox",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994588927072567,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

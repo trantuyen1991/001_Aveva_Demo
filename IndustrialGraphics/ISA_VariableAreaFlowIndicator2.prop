@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 17,
+  "VisualElementID": 443,
+  "GObjectId": 443,
+  "HelpId": "",
+  "VisualElementName": "ISA_VariableAreaFlowIndicator2",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589279482587,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

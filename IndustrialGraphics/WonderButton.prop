@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 12,
+  "VisualElementID": 742,
+  "GObjectId": 742,
+  "HelpId": "",
+  "VisualElementName": "WonderButton",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589826794356,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

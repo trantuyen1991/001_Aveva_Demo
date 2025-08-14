@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 39,
+  "VisualElementID": 648,
+  "GObjectId": 648,
+  "HelpId": "",
+  "VisualElementName": "SliderVerticalKnurled",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589654474298,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

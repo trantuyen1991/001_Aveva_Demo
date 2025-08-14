@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 34,
+  "VisualElementID": 565,
+  "GObjectId": 565,
+  "HelpId": "",
+  "VisualElementName": "LightGlossyGreenRed",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589501112837,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

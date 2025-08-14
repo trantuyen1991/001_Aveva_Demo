@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 40,
+  "VisualElementID": 362,
+  "GObjectId": 362,
+  "HelpId": "",
+  "VisualElementName": "ExpandableTank",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589134732571,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

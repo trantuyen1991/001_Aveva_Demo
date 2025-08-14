@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 14,
+  "VisualElementID": 409,
+  "GObjectId": 409,
+  "HelpId": "",
+  "VisualElementName": "ISA_RestrictionOrifice",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589219862223,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

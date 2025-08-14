@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 288,
+  "VisualElementID": 740,
+  "GObjectId": 740,
+  "HelpId": "",
+  "VisualElementName": "WinPlatformDisplay",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589823034281,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

@@ -1,0 +1,25 @@
+{
+  "GraphicVersion": 62,
+  "VisualElementID": 336,
+  "GObjectId": 336,
+  "HelpId": "",
+  "VisualElementName": "CounterOval",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589088492568,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [
+    1
+  ],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

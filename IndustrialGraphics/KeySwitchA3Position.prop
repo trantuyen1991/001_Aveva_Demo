@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 36,
+  "VisualElementID": 556,
+  "GObjectId": 556,
+  "HelpId": "",
+  "VisualElementName": "KeySwitchA3Position",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589484922834,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

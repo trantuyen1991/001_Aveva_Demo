@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 18,
+  "VisualElementID": 454,
+  "GObjectId": 454,
+  "HelpId": "",
+  "VisualElementName": "ISA_SensorSonic",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589298752222,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

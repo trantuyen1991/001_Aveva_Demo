@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 76,
+  "VisualElementID": 686,
+  "GObjectId": 686,
+  "HelpId": "",
+  "VisualElementName": "TankCylinderVertFill",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589723344288,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

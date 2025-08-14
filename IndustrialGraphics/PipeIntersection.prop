@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 29,
+  "VisualElementID": 615,
+  "GObjectId": 615,
+  "HelpId": "",
+  "VisualElementName": "PipeIntersection",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589590892838,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 18,
+  "VisualElementID": 322,
+  "GObjectId": 322,
+  "HelpId": "",
+  "VisualElementName": "ButtonTextLight",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589063892549,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 14,
+  "VisualElementID": 250,
+  "GObjectId": 250,
+  "HelpId": "",
+  "VisualElementName": "ButtonClose",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994588940802576,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

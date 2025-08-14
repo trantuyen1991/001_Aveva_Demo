@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<References xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reference Name="me.Tagname" CPName="WinPlatformName" Type="UDA Ref Use" />
+  <Reference Name="me.CPULoad" CPName="CPULoad" Type="UDA Ref Use" />
+  <Reference Name="me.Engine.StartupReason" CPName="StartupReason" Type="UDA Ref Use" />
+  <Reference Name="me.ScanState" CPName="ScanState" Type="UDA Ref Use" />
+  <Reference Name="me.ScanStateCmd" CPName="ScanStateCmd" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.ScanPeriod" CPName="ScanPeriod" Type="UDA Ref Use" />
+  <Reference Name="me.CPULoadAvg" CPName="CPULoadAvg" Type="UDA Ref Use" />
+  <Reference Name="me.RAMAvailableAvg" CPName="RAMAvailableAvg" Type="UDA Ref Use" />
+  <Reference Name="me.DiskSpaceFree[]" CPName="DiskSpaceFree" Type="UDA Ref Use" />
+  <Reference Name="me.SystemStartupTime" CPName="SystemStartupTime" Type="UDA Ref Use" />
+  <Reference Name="me.ProcessCnt" CPName="ProcessCnt" Type="UDA Ref Use" />
+  <Reference Name="me.PlatformInfo" CPName="PlatformInfo" Type="UDA Ref Use" />
+  <Reference Name="me.NetRMCAddr" CPName="NetRMCAddr" Type="UDA Ref Use" />
+  <Reference Name="me.RAM" CPName="RAM" Type="UDA Ref Use" />
+  <Reference Name="me.PageFaultsAvg" CPName="PageFaultsAvg" Type="UDA Ref Use" />
+  <Reference Name="me.NetNMXBytesRcvdAvg" CPName="NetNMXBytesRcvdAvg" Type="UDA Ref Use" />
+  <Reference Name="me.NetNMXBytesSentAvg" CPName="NetNMXBytesSentAvg" Type="UDA Ref Use" />
+  <Reference Name="me.NetNMXDisconnectCnt" CPName="NetNMXDisconnectCnt" Type="UDA Ref Use" />
+  <Reference Name="me.NetNMXDisconnected" CPName="NetNMXDisconnected" Type="UDA Ref Use" />
+  <Reference Name="me.NetRMCDisconnected" CPName="NetRMCDisconnected" Type="UDA Ref Use" />
+  <Reference Name="me.NetNMXHeartbeatPeriod" CPName="NetNMXHeartbeatPeriod" Type="UDA Ref Use" />
+  <Reference Name="me.NetNMXHeartbeatsMissedConsecCnt" CPName="NetNMXHeartbeatsMissedConsecCnt" Type="UDA Ref Use" />
+  <Reference Name="me.NetRMCDisconnectCnt" CPName="NetRMCDisconnectCnt" Type="UDA Ref Use" />
+  <Reference Name="me.ShortDesc" CPName="ShortDesc" Type="UDA Ref Use" />
+  <Reference Name="me.NodeName" CPName="NodeName" Type="UDA Ref Use" />
+  <Reference Name="me.Engine.Objects[]" CPName="EngineObjects" Type="UDA Ref Use" />
+  <Reference Name="me.Engine.Objects.Dimension1" CPName="EngineObjectsCnt" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.ObjectCnt" CPName="ObjectCnt" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.ObjectsOffscanCnt" CPName="ObjectsOffscanCnt" Type="UDA Ref Use" />
+</References>

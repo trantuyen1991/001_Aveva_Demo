@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 9,
+  "VisualElementID": 668,
+  "GObjectId": 668,
+  "HelpId": "",
+  "VisualElementName": "StackLightsRedOrangeGreen",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589690854303,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

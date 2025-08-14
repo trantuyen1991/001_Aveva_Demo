@@ -1,0 +1,25 @@
+{
+  "GraphicVersion": 21,
+  "VisualElementID": 335,
+  "GObjectId": 335,
+  "HelpId": "",
+  "VisualElementName": "Counter",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589086792592,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [
+    1
+  ],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-16"?>
+<References xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reference Name="me.Redundancy.Status" CPName="Status" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.ForceFailoverCmd" CPName="ForceFailoverCmd" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.FailoverOccurred" CPName="FailoverOccurred" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.ForcedFailoverTimeout" CPName="ForcedFailoverTimeout" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.CheckpointDeltasBufferedMax" CPName="CheckpointDeltasBufferedMax" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.AlarmStateChangesBufferedMax" CPName="AlarmStateChangesBufferedMax" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.StandbyHeartbeatPeriod" CPName="StandbyHeartbeatPeriod" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.StandbyHeartbeatsMissedConsecMax" CPName="StandbyHeartbeatsMissedConsecMax" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.ActiveHeartbeatPeriod" CPName="ActiveHeartbeatPeriod" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.ActiveHeartbeatsMissedConsecMax" CPName="ActiveHeartbeatsMissedConsecMax" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.StandbyActivateTimeout" CPName="StandbyActivateTimeout" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.PartnerConnectTimeout" CPName="PartnerConnectTimeout" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.FailoverOccurred.Condition" CPName="FailoverOccurredCondition" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.StandbyUnavailable.Condition" CPName="StandbyUnavailableCondition" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.CheckpointOutOfSyncCnt" CPName="CheckpointOutOfSyncCnt" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.CheckpointDeltasBufferedCnt" CPName="CheckpointDeltasBufferedCnt" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.CheckpointDeltasSentToStandby" CPName="CheckpointDeltasSentToStandby" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.AlarmStateChangesOutOfSyncCnt" CPName="AlarmStateChangesOutOfSyncCnt" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.AlarmStateChangesBufferedCnt" CPName="AlarmStateChangesBufferedCnt" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.AlarmStateChangesSentToStandby" CPName="AlarmStateChangesSentToStandby" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.StandbyHeartbeatsMissedCnt" CPName="StandbyHeartbeatsMissedCnt" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.StandbyHeartbeatsMissedConsecCnt" CPName="StandbyHeartbeatsMissedConsecCnt" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.StandbyNotReady.Condition" CPName="StandbyNotReadyCondition" Type="UDA Ref Use" />
+  <Reference Name="me.Tagname" CPName="EngineName" Type="UDA Ref Use" />
+  <Reference Name="me.Host" CPName="HostPlatform" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.PartnerPlatform" CPName="PartnerPlatform" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.StandbyUnavailable.Desc" CPName="StandbyUnavailableDesc" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.StandbyNotReady.Desc" CPName="StandbyNotReadyDesc" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.PartnerStatus" CPName="PartnerStatus" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.Identity" CPName="Identity" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.Status.Value" CPName="StatusEnum" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.PartnerStatus.Value" CPName="PartnerStatusEnum" Type="UDA Ref Use" />
+  <Reference Name="me.Engine.ProcessCPULoad" CPName="ProcessCPULoad" Type="UDA Ref Use" />
+  <Reference Name="me.Engine.StartupReason" CPName="StartupReason" Type="UDA Ref Use" />
+  <Reference Name="me.Engine.EngineFailureTimeout" CPName="EngineFailureTimeout" Type="UDA Ref Use" />
+  <Reference Name="me.ScanState" CPName="ScanState" Type="UDA Ref Use" />
+  <Reference Name="me.ScanStateCmd" CPName="ScanStateCmd" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.ScanPeriod" CPName="ScanPeriod" Type="UDA Ref Use" />
+  <Reference Name="me.Redundancy.Status.Quality" CPName="StatusQuality" Type="UDA Ref Use" />
+</References>

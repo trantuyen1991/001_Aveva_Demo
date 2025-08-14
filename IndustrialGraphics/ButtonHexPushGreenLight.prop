@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 18,
+  "VisualElementID": 275,
+  "GObjectId": 275,
+  "HelpId": "",
+  "VisualElementName": "ButtonHexPushGreenLight",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994588983482521,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

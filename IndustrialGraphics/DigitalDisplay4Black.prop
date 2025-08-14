@@ -1,0 +1,25 @@
+{
+  "GraphicVersion": 24,
+  "VisualElementID": 345,
+  "GObjectId": 345,
+  "HelpId": "",
+  "VisualElementName": "DigitalDisplay4Black",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589104212542,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [
+    1
+  ],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

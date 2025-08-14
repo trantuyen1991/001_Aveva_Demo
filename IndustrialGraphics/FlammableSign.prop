@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 5,
+  "VisualElementID": 722,
+  "GObjectId": 722,
+  "HelpId": "",
+  "VisualElementName": "FlammableSign",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589789704650,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

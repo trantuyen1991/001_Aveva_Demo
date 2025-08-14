@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<References xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reference Name="me.Tagname" CPName="EngineName" Type="UDA Ref Use" />
+  <Reference Name="me.ScanState" CPName="ScanState" Type="UDA Ref Use" />
+  <Reference Name="me.ScanStateCmd" CPName="ScanStateCmd" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.StatsReset" CPName="StatsReset" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.ScanPeriod" CPName="ScanPeriod" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.StatsAvgPeriod" CPName="StatsAvgPeriod" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.CheckpointPeriodAvg" CPName="CheckpointPeriodAvg" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.ExecutionTimeAvg" CPName="ExecutionTimeAvg" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.HousekeepingTimeAvg" CPName="HousekeepingTimeAvg" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.TimeIdleAvg" CPName="TimeIdleAvg" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.TimeIdleMax" CPName="TimeIdleMax" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.TimeIdleMin" CPName="TimeIdleMin" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.InputMsgSizeAvg" CPName="InputMsgSizeAvg" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.InputMsgsProcessedAvg" CPName="InputMsgsProcessedAvg" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.InputMsgsQueuedAvg" CPName="InputMsgsQueuedAvg" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.InputMsgsQueuedMax" CPName="InputMsgsQueuedMax" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.InputQueueSizeMaxAllowed" CPName="InputQueueSizeMaxAllowed" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.InputQueueSizeAvg" CPName="InputQueueSizeAvg" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.InputQueueSizeMax" CPName="InputQueueSizeMax" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.TimeInputAvg" CPName="TimeInputAvg" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.ObjectCnt" CPName="ObjectCnt" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.ObjectsOffscanCnt" CPName="ObjectsOffscanCnt" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.TimeOutputAvg" CPName="TimeOutputAvg" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.ScanCyclesCnt" CPName="ScanCyclesCnt" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.ScanOverrunsConsecCnt" CPName="ScanOverrunsConsecCnt" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.ScanOverrun.HiLimit" CPName="ScanOverrunHiLimit" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.ScanOverrun.Condition" CPName="ScanOverrunCondition" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.ScanTime" CPName="ScanTime" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.CheckpointPeriod" CPName="CheckpointPeriod" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.ExecInterrupts" CPName="ExecInterrupts" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.ExecInterruptsStandardEnable" CPName="ExecInterruptsStandardEnable" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.ExecInterruptsTimeAvg" CPName="ExecInterruptsTimeAvg" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.ExecInterruptsFullEnable" CPName="ExecInterruptsFullEnable" Type="UDA Ref Use" />
+  <Reference Name="me.Scheduler.ScanOverrunsCnt" CPName="ScanOverrunsCnt" Type="UDA Ref Use" />
+</References>

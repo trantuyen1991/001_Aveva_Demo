@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 11,
+  "VisualElementID": 470,
+  "GObjectId": 470,
+  "HelpId": "",
+  "VisualElementName": "ISA_DiscreteInstrumentAOA",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589327302592,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}

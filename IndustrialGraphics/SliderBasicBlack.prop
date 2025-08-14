@@ -1,0 +1,23 @@
+{
+  "GraphicVersion": 12,
+  "VisualElementID": 642,
+  "GObjectId": 642,
+  "HelpId": "",
+  "VisualElementName": "SliderBasicBlack",
+  "IsProtected": false,
+  "ContextObject": "",
+  "TimeStamp": 133994589642342852,
+  "VisualElementType": "Symbol",
+  "Errors": null,
+  "Warnings": null,
+  "AttributeReferences": null,
+  "RuntimeDependencies": null,
+  "ClientControlDependencies": null,
+  "Description": "",
+  "VisualElementReferencesStatus": [],
+  "GraphicChangeType": 1,
+  "ContentType": "",
+  "InternalName": null,
+  "ExternalName": null,
+  "EditorSettings": ""
+}
