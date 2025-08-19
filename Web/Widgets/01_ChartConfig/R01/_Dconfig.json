@@ -1,0 +1,1 @@
+{"deviceID":"R01","sqlDNS":"Provider=MSDASQL.1;DSN=MySQL_BMS;UID=root;PWD=root;","dbName":"bms_db","dbTable":"mbtcp04","dbColumn":["Time_Stamp","tempSensor_0_rawValue","humidSensor_0_rawValue","difPressSensor_0_rawValue"],"dataName":["Temp","Humid","DifPress"],"type":["line","line","line"]}

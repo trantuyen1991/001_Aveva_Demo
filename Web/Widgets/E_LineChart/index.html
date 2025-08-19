@@ -1,0 +1,167 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>E_LineChart</title>
+    <script src="../Resources/Apis/Proxy.js" cwidget="E_LineChart"></script>
+    <link rel="stylesheet" href="../Resources/libs/00_ttc/css/style_min.css" />
+    <script src="../Resources/libs/echarts_5_6_0/dist/echarts.min.js"></script>
+    <link rel="stylesheet" href="../Resources/libs/bootstrap_5_3_7/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="../Resources/libs/bootstrap_icons_1_13_1/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="../Resources/libs/flatpicker/flatpickr.min.css">
+    <link rel="stylesheet" href="../00_PopupSetting/settings_popup.css">
+    <script src="../Resources/libs/echarts_5_6_0/theme/00_Custom/infographic.js"></script>
+    <script src="../Resources/libs/echarts_5_6_0/theme/00_Custom/dark.js"></script>
+    <script src="../Resources/libs/echarts_5_6_0/theme/00_Custom/vintage.js"></script>
+    <script src="../Resources/libs/echarts_5_6_0/theme/00_Custom/chalk.js"></script>
+    <script src="../Resources/libs/echarts_5_6_0/theme/00_Custom/shine.js"></script>
+    <script src="../Resources/libs/echarts_5_6_0/theme/00_Custom/macarons.js"></script>
+    <script src="../Resources/libs/echarts_5_6_0/theme/00_Custom/roma.js"></script>
+    <script src="../Resources/libs/echarts_5_6_0/theme/00_Custom/essos.js"></script>
+    <script src="../Resources/libs/echarts_5_6_0/theme/00_Custom/purple-passion.js"></script>
+    <script src="../Resources/libs/echarts_5_6_0/theme/00_Custom/walden.js"></script>
+    <script src="../Resources/libs/echarts_5_6_0/theme/00_Custom/westeros.js"></script>
+    <script src="../Resources/libs/echarts_5_6_0/theme/00_Custom/wonderland.js"></script>
+</head>
+
+<body>
+    <div class="chartContainer" id="Container_ID">
+        <div id="originalSizeDisplay" class="widget-size-info d-none">W: --- px &nbsp; H: --- px</div>
+        <div id="myChart"></div>
+        <div id="lastUpdated" class="chart-meta-top">Last updated: --</div>
+        <div id="settingsMenu">
+            <div class="d-flex align-items-center gap-2 d-none" id="ClassinputNumOfRow"><input type="number"
+                    class="form-control" id="inputNumOfRow"></div>
+            <div class="d-flex align-items-center gap-2 d-none" id="datePickerContainer"><label class="me-1"
+                    id="FromTextID">From:</label><input type="datetime-local" id="startDT1" class="form-control"
+                    title="Start Time"><label class="mx-1" id="ToTextID">To:</label><input type="datetime-local"
+                    id="endDT1" class="form-control" title="End Time"><button type="button" class="btn btn-primary"
+                    id="applyDate" title="Apply">Apply</button></div><button id="modeToggle" title="History"><i
+                    class="bi bi-lightning"></i></button><button id="enterFullscreenBtn" title="Fullscreen"
+                onclick="toggleFullscreen()"><img src="../Resources/Images/expand-solid.svg" alt="🔳" /></button><button
+                class="d-none" id="settingsToggle" title="Setting"><img src="../Resources/Images/bars-solid.svg"
+                    alt="⚙" /></button>
+            <div id="settingsPopup"><button id="chartSetting" title="Chart Setting" data-bs-toggle="modal"
+                    data-bs-target="#exampleModal"><i class="bi bi-gear-wide-connected"></i>Chart Setting </button>
+                <div class="d-flex align-items-center gap-2 d-none"><input type="text" id="chartTitleInput"
+                        placeholder="Title Name..." title="Tên biểu đồ" /><input type="text" id="unitInput"
+                        placeholder="Unit..." title="%, triệu VND, etc." /></div><select id="themeSelect" title="Theme">
+                    <option value="">Theme(Default)</option>
+                    <option value="infographic">Infographic</option>
+                    <option value="dark">Dark</option>
+                    <option value="vintage">Vintage</option>
+                    <option value="chalk">Chalk</option>
+                    <option value="shine">Shine</option>
+                    <option value="macarons">Macarons</option>
+                    <option value="roma">Roma</option>
+                    <option value="essos">Essos</option>
+                    <option value="purple-passion">Purple-passion</option>
+                    <option value="walden">Walden</option>
+                    <option value="westeros">Westeros</option>
+                    <option value="wonderland">Wonderland</option>
+                </select><button class="d-none" id="applySettings" title="Save Parameter"><img
+                        src="../Resources/Images/floppy-disk-solid1.svg" alt="💾" />Apply </button>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-scrollable">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="exampleModalLabel"><i class="bi bi-gear"></i>Chart Setting</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <ul class="nav nav-tabs" id="myTab" role="tablist">
+                        <li class="nav-item" role="presentation"><button class="nav-link active" id="home-tab"
+                                data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab"
+                                aria-controls="home" aria-selected="true">Common</button></li>
+                        <li class="nav-item" role="presentation"><button class="nav-link" id="profile-tab"
+                                data-bs-toggle="tab" data-bs-target="#profile" type="button" role="tab"
+                                aria-controls="profile" aria-selected="false">Axis</button></li>
+                        <li class="nav-item" role="presentation"><button class="nav-link" id="contact-tab"
+                                data-bs-toggle="tab" data-bs-target="#contact" type="button" role="tab"
+                                aria-controls="contact" aria-selected="false">Contact</button></li>
+                    </ul>
+                    <form class="needs-validation" novalidate="">
+                        <div class="tab-content" id="myTabContent">
+                            <div class="tab-pane fade show active p-3 border border-top-0" id="home" role="tabpanel"
+                                aria-labelledby="home-tab">
+                                <div class="col-sm-12">
+                                    <div class="input-group"><input type="file" class="form-control" accept=".json"
+                                            onchange="loadConfigFromFile(event)"><span class="input-group-text"><i
+                                                class="bi bi-upload" title="Up Load"></i></span></div>
+                                </div>
+                                <hr>
+                                <div class="row g-3">
+                                    <div class="col-6">Tile Name <input type="text" class="form-control" id="titleName"
+                                            placeholder="Biểu đồ dòng điện..." value="" required=""></div>
+                                    <div class="col-6">Device ID <input type="text" class="form-control" id="deviceID"
+                                            placeholder="MSB01..." value="" required=""></div>
+                                </div>
+                                <hr>
+                                <div class="col-sm-12">SQL <input type="text" class="form-control" id="sqlDNS"
+                                        placeholder="Provider=MSDASQL.1;DSN=MySQL_BMS;UID=root;PWD=root;" value=""
+                                        required=""></div>
+                                <div class="row g-3">
+                                    <div class="col-sm-6">Database Name <input type="text" class="form-control"
+                                            id="dbName" placeholder="bms_db" value="" required=""></div>
+                                    <div class="col-sm-6">Table Name <input type="text" class="form-control"
+                                            id="dbTable" placeholder="diodeac1" value="" required=""></div>
+                                </div>
+                                <div class="row g-3">
+                                    <div class="col-sm-6">Column Name <input type="text" class="form-control"
+                                            id="dbColumn" placeholder="I1,I2,I3..." value="" required=""></div>
+                                    <div class="col-sm-6">Chart Type <input type="text" class="form-control" id="type"
+                                            placeholder="line,bar,stack..." value="" required=""></div>
+                                </div>
+                                <div class="col-sm-12">Data Name <input type="text" class="form-control" id="dataName"
+                                        placeholder="Line 01,Line 02,Line 03..." value="" required=""></div>
+                                <div class="row g-3 d-flex align-items-center gap-2 d-none">
+                                    <div class="col-sm-6">Start Time <div class="input-group"><input type="text"
+                                                id="startDT" class="form-control" placeholder="Chọn ngày giờ..."
+                                                value="" required /><span class="input-group-text"><i
+                                                    class="bi bi-calendar-event"></i></span></div>
+                                    </div>
+                                    <div class="col-sm-6">End Time <div class="input-group"><input type="text"
+                                                id="endDT" class="form-control" placeholder="Chọn ngày giờ..." value=""
+                                                required /><span class="input-group-text"><i
+                                                    class="bi bi-calendar-event"></i></span></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tab-pane fade p-3 border border-top-0" id="profile" role="tabpanel"
+                                aria-labelledby="profile-tab">
+                                <div class="row">
+                                    <div class="col-sm-6">xAxis <input type="text" class="form-control g-3"
+                                            id="xAxisName" placeholder="Time.." value="" required=""><input type="text"
+                                            class="form-control g-3" id="xAxisUnit" placeholder="A/V/Kw.." value=""
+                                            required=""></div>
+                                    <hr>
+                                    <div class="col-sm-6">yAxis <input type="text" class="form-control g-3"
+                                            id="yAxisName" placeholder="Current.." value="" required=""><input
+                                            type="text" class="form-control g-3" id="yAxisUnit" placeholder="A/V/Kw.."
+                                            value="" required=""></div>
+                                </div>
+                            </div>
+                            <div class="tab-pane fade p-3 border border-top-0 d-none" id="contact" role="tabpanel"
+                                aria-labelledby="contact-tab">Tab nội dung Contact </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer"><button type="button" class="btn btn-secondary d-none" style="width: 120px;"
+                        onclick="resetForm()">Clear All <i class="bi bi-trash"></i></button><button type="button"
+                        class="btn btn-primary" style="width: 120px;" onclick="saveConfig()">Save <i
+                            class="bi bi-download"></i></button></div>
+            </div>
+        </div>
+    </div>
+    <script src="../Resources/libs/bootstrap_5_3_7/js/bootstrap.bundle.min.js"></script>
+    <script src="../Resources/libs/flatpicker/flatpickr.js"></script>
+    <script src="../00_PopupSetting/settings_popup.js"></script>
+    <script src="./custom_widget_min.js" defer></script>
+    <script src="./utils_realtime.js" defer></script>
+</body>
+
+</html>
